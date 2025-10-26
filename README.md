@@ -1,10 +1,22 @@
-# personal website
-Hello! This is my personal website, which contains art, photos, readings, movies, reviews, etc. This is the first website I've ever made and I taught myself HTML and CSS to make it. To view the website, visit https://katieangel.neocities.org/home
+# ˚˖𓍢ִ໋🦢˚ Personal Website ˚˖𓍢ִ໋🦢˚
 
+𓆝 𓆟 𓆞 𓆝 𓆟 Hi there 𓆝 𓆟 𓆞 𓆝 𓆟
 
-My current contributions are:
-- subwebsites
-- buttons
-- images
-- comment boxes
-- quote boxes
+Welcome to my personal website — a cozy corner of the internet where I share my art, photography, books, movies, and more!
+
+This is the **first website I’ve ever built**, and I’m super proud of it — I taught myself **HTML** and **CSS** to make it from scratch ⚝
+
+˗ˏˋ ★ ˎˊ˗ **Check it out here:**   [https://katieangel.neocities.org/home](https://katieangel.neocities.org)
+
+---
+
+## 💡 Current Features & Contributions
+- ⚝ Sub-websites  
+- ⚝ Custom buttons  
+- ⚝ Images and galleries  
+- ⚝ Comment boxes  
+- ⚝ Quote boxes  
+
+---
+
+˗ˏˋ ★ ˎˊ˗ *Thanks for stopping by!*
